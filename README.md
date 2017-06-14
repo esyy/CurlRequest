@@ -6,3 +6,5 @@ PHP curl系列函数封装
 
 #### 销毁HTTP对象
 > `CurlRequest::destroy();`
+
+特别感谢@[shellvon同学](https://github.com/shellvon)
